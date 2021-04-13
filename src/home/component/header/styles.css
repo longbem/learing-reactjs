@@ -1,0 +1,13 @@
+.component-header-home {
+  position: relative;
+  font-weight: normal;
+  text-align: center;
+  color: #333;
+  align-items: center;
+  /* background-color: red; */
+}
+
+.component-header-avatar img {
+  border-radius: 50px;
+  float: left;
+}

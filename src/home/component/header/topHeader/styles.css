@@ -1,0 +1,56 @@
+.topHeader {
+  height: 40px;
+  align-items: center;
+  padding: 0 15%;
+  background-color: #efefef;
+  display: flex;
+  justify-content: space-between;
+}
+.topHeaderLeft {
+  /* float: left; */
+}
+.iconHome {
+  float: left;
+  margin-top: 5%;
+  filter: saturate(1048%);
+}
+.iconHotline {
+  float: left;
+  margin-top: 9%;
+}
+.iconClock {
+  float: left;
+  margin-top: 5%;
+}
+.navLeft {
+  display: flex;
+  list-style-type: none;
+  padding: 0px;
+}
+
+.textHeader {
+  font-size: 11px;
+  align-self: center;
+  margin-top: 15px;
+}
+.addressHeader {
+  min-width: 240px;
+  margin-right: 20px;
+}
+.hotline {
+  min-width: 120px;
+  margin-right: 20px;
+}
+.clock {
+  min-width: 250px;
+  margin-right: 20px;
+}
+
+.topHeaderRight {
+  right: 0px;
+}
+.iconTopRight {
+  float: left;
+  margin-top: 5px;
+  margin: 5px;
+}
